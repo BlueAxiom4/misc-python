@@ -1,2 +1,2 @@
 # misc-python
-Miscellaneous python scripts, tests, and examples.
+Miscellaneous Python scripts, tests, and examples.
