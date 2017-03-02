@@ -13,4 +13,3 @@ x = 1
 if x == 1:
     #print the classic "Hello, world" message
     print("Hello, world.")
-    print("Test.")
