@@ -15,4 +15,4 @@ myurl= 'http://maps.googleapis.com/maps/api/elevation/json?locations='+path1+'&s
 # json_normalize(data['results'])
 
 df = pd.read_json(myurl)
-print df
+print(df)
